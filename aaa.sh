@@ -6,4 +6,4 @@ then echo 123
 else echo 321
 fi
 read $a
-dfadfgfadafdgf
+dfadfgfadafdgfsfdg
