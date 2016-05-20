@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 aaa
 bbb
+=======
+aaa
+>>>>>>> f75d45f... new 2b
